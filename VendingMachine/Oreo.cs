@@ -8,6 +8,7 @@ namespace VendingMachine
 {
     class Oreo : Item
     {
+        public Oreo() { }
         public static void UpdateOreo()
         {
             qtyOreo -= 1;

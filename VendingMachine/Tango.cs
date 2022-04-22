@@ -8,6 +8,7 @@ namespace VendingMachine
 {
     class Tango : Item
     {
+        public Tango() { }
         public static void UpdateTango()
         {
             qtyTango -= 1;

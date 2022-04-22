@@ -8,6 +8,7 @@ namespace VendingMachine
 {
     class Chips : Item
     {
+        public Chips() { }
         public static void UpdateChips()
         {
             qtyChips -= 1;

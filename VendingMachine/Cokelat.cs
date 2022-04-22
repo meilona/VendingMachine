@@ -8,6 +8,9 @@ namespace VendingMachine
 {
     class Cokelat : Item 
     {
+
+        public Cokelat() { }
+
         public static void UpdateCokelat()
         {
             qtyCokelat -= 1;

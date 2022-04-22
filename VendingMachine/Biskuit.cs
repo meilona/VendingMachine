@@ -8,6 +8,8 @@ namespace VendingMachine
 {
     class Biskuit : Item
     {
+        public Biskuit() { }
+
         public static void UpdateBiskuit()
         {
             qtyBiskuit -= 1;
