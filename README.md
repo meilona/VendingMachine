@@ -1,6 +1,6 @@
 # VendingMachine
 
-How to user Vending Machine : 
+How to use : 
 
 1. Run Project
 2. Input money
